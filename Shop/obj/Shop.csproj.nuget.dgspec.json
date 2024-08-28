@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\5897\\Projects\\Test Project\\Shop\\ShopBE\\Shop\\Shop\\Shop.csproj": {}
+    "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "E:\\5897\\Projects\\Test Project\\Shop\\ShopBE\\Shop\\Shop\\Shop.csproj": {
+    "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\5897\\Projects\\Test Project\\Shop\\ShopBE\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "E:\\5897\\Projects\\Test Project\\Shop\\ShopBE\\Shop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\ITO2\\.nuget\\packages\\",
-        "outputPath": "E:\\5897\\Projects\\Test Project\\Shop\\ShopBE\\Shop\\Shop\\obj\\",
+        "projectPath": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ITO2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +45,30 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

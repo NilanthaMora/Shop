@@ -1,7 +1,160 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\5897\\Projects\\Test Project\\Shop\\ShopBE\\Shop\\",
-  "Documents": [],
+  "WorkspaceRootPath": "B:\\Project\\Shop\\ShopAPI\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\aesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\aesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\paymenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\paymenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\iquantitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\iquantitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\iproducttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\iproducttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\interface\\ipaymenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\interface\\ipaymenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\models\\eshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\models\\eshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\paymenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\paymenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\quantitytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\quantitytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\quantitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\quantitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\repository\\class\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\class\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\models\\shopproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\models\\shopproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\models\\quantitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\models\\quantitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|b:\\project\\shop\\shopapi\\shop\\shop\\shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FB1B546-443D-4C27-A753-3E90770CDACC}|Shop\\Shop.csproj|solutionrelative:shop\\shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +162,502 @@
       "DocumentGroups": [
         {
           "DockedWidth": 258,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\ProductRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\ProductRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\ProductRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:46:35.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Shop\\Program.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Program.cs",
+              "RelativeToolTip": "Shop\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:55:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:32:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\CartRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\CartRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:34:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop\\appsettings.json",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\appsettings.json",
+              "RelativeToolTip": "Shop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T07:22:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\LogController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\LogController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\LogController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:54:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\UserRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\UserRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\UserRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:51:05.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\LoginController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:12:33.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AesOperation.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\AesOperation.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\AesOperation.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\AesOperation.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\AesOperation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:22:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\ProductController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:06:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\CartController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:37:07.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\PaymentController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:01:29.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\PaymentRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\PaymentRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\PaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:43:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\LogRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\LogRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\LogRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\LogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:39:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\IPaymentRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IPaymentRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:30:54.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\IProductRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:20:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\ILogRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\ILogRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:27:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\ICartRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\ICartRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:29:19.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\IStoreRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IStoreRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\IStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:05:33.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IQuantityTypeRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IQuantityTypeRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\IQuantityTypeRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IQuantityTypeRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\IQuantityTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:05:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductTypeRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IProductTypeRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\IProductTypeRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IProductTypeRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\IProductTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:03:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentTypeRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\PaymentTypeRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\PaymentTypeRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\PaymentTypeRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\PaymentTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:44:41.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPaymentTypeRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IPaymentTypeRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\IPaymentTypeRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\IPaymentTypeRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\IPaymentTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:01:04.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Interface\\ISupplierRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Interface\\ISupplierRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Interface\\ISupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:06:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductTypeController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\ProductTypeController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\ProductTypeController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\ProductTypeController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\ProductTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:28:11.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EshopContext.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Models\\EshopContext.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\EshopContext.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Models\\EshopContext.cs",
+              "RelativeToolTip": "Shop\\Models\\EshopContext.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAjwBABAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:33:36.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\SupplierController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:51:09.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuantityTypeController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\QuantityTypeController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\QuantityTypeController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\QuantityTypeController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\QuantityTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:22:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentTypeController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\PaymentTypeController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\PaymentTypeController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\PaymentTypeController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\PaymentTypeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:31:20.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductTypeRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\ProductTypeRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\ProductTypeRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\ProductTypeRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\ProductTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:40:12.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QuantityTypeRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\QuantityTypeRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\QuantityTypeRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\QuantityTypeRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\QuantityTypeRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:17:54.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\StoreController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:58:38.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\SupplierRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\SupplierRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\SupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:09:46.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\Class\\StoreRepository.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Repository\\Class\\StoreRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\Class\\StoreRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:08:50.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShopProduct.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Models\\ShopProduct.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\ShopProduct.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Models\\ShopProduct.cs",
+              "RelativeToolTip": "Shop\\Models\\ShopProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:05:44.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:35:17.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "QuantityType.cs",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Models\\QuantityType.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\QuantityType.cs",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Models\\QuantityType.cs",
+              "RelativeToolTip": "Shop\\Models\\QuantityType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:59:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Shop.csproj",
+              "DocumentMoniker": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Shop.csproj",
+              "RelativeDocumentMoniker": "Shop\\Shop.csproj",
+              "ToolTip": "B:\\Project\\Shop\\ShopAPI\\Shop\\Shop\\Shop.csproj",
+              "RelativeToolTip": "Shop\\Shop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T07:51:24.678Z",
+              "EditorCaption": ""
             }
           ]
         }
